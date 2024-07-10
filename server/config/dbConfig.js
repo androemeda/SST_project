@@ -8,5 +8,5 @@ connection.on('connected' , ()=>{
     console.log('Connection Successful')
 })
 connection.on('error' , ()=>{
-    console.log('Connection unsuccessful')
+    console.log('C1 <= k <= n <= 1000onnection unsuccessful')
 })
